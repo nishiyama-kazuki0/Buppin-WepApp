@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "VmSwCkUJ",
+  "version": "13lj9wL8",
   "assets": [
     {
       "hash": "sha256-v/EqpoqpDgYGkKY4Lrfh74X2XQNNuJqwDYctkUBesYw=",
@@ -310,19 +310,19 @@ self.assetsManifest = {
       "url": "_framework/ExcelNumberFormat.wasm"
     },
     {
-      "hash": "sha256-uSerroNldNh4xbUSyMva4EXqoWPXaG6z/xSIkharsJ8=",
+      "hash": "sha256-6psDCMFRRJopNL7SBwQPSopaz5BCQ2/hr296EdDK7AQ=",
       "url": "_framework/ExpressionDBBlazorShared.pdb"
     },
     {
-      "hash": "sha256-kr5MRghk0G52MOB+rOV9jrLav7A3zDkIxO29hDp17dU=",
+      "hash": "sha256-ydvJZ6tbf6i8eSoAL3k4KsGiKDT9Qj5Qk3Bre0scVqA=",
       "url": "_framework/ExpressionDBBlazorShared.wasm"
     },
     {
-      "hash": "sha256-2EvI16GlMsOdXLMcHRxDsUpEWQMihEU7PVzQxAw3VVg=",
+      "hash": "sha256-+8zfp4iaR0fsKx43YoFZDJH1eYBSXg9HjtPkrK2tO6c=",
       "url": "_framework/ExpressionDBBlazorWasmApp.pdb"
     },
     {
-      "hash": "sha256-Yey25S7A77CHFlYyGYVJP5JtjG77cvvErUDKQYEQx9I=",
+      "hash": "sha256-3bhjVuUgKSRDhfoPvlOZhRpBQj+lIh5ImIqgXUkclq4=",
       "url": "_framework/ExpressionDBBlazorWasmApp.wasm"
     },
     {
@@ -526,11 +526,11 @@ self.assetsManifest = {
       "url": "_framework/Radzen.Blazor.wasm"
     },
     {
-      "hash": "sha256-n9jszIX3ZMGMYECdGDgM+fmLka0crLv0wNK6/wgD8oQ=",
+      "hash": "sha256-WcgjraXZlXm0hArDUBeTg2hureibjHi5m5ZtV42dKcQ=",
       "url": "_framework/SharedModels.pdb"
     },
     {
-      "hash": "sha256-ZTcYjLlF8VVzYjrWM5Z6pV0gxPOqJNIe/Zl9B+AhbRk=",
+      "hash": "sha256-ZO1wLXV1L9B4ilSz6OTOAqvtXm2bTYmIKrXReYT/PDQ=",
       "url": "_framework/SharedModels.wasm"
     },
     {
@@ -1210,7 +1210,7 @@ self.assetsManifest = {
       "url": "_framework/WindowsBase.wasm"
     },
     {
-      "hash": "sha256-tMkZ+mV9z7KFrNafQZqq+diIxs8xfkFfRDNtlLkOmsI=",
+      "hash": "sha256-wMNClF62J+0UnoDXOs6wG+BRiBJqs1H1YyPrDSedgak=",
       "url": "_framework/blazor.boot.json"
     },
     {

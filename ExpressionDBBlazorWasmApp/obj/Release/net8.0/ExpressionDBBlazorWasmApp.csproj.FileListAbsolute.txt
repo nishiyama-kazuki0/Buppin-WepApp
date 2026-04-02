@@ -2526,13 +2526,6 @@ C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\B
 C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WepApp\ExpressionDBBlazorWasmApp\obj\Release\net8.0\compressed\83ns7k7kol-tptq2av103.gz
 C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WepApp\ExpressionDBBlazorWasmApp\obj\Release\net8.0\compressed\aw2irujnoa-lfu7j35m59.gz
 C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WepApp\ExpressionDBBlazorWasmApp\obj\Release\net8.0\compressed\g7vr3g3e00-oyz0vx2fzb.gz
-C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WepApp\ExpressionDBBlazorWasmApp\obj\Release\net8.0\compressed\mh1xk4vkvy-6fbboy5ysy.gz
-C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WepApp\ExpressionDBBlazorWasmApp\obj\Release\net8.0\compressed\3mdmdar3dn-pn96l36h5m.gz
-C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WepApp\ExpressionDBBlazorWasmApp\obj\Release\net8.0\compressed\69m19dp35n-tb53yyckqr.gz
-C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WepApp\ExpressionDBBlazorWasmApp\obj\Release\net8.0\compressed\u4d5min8qi-t9kbwnlfgo.gz
-C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WepApp\ExpressionDBBlazorWasmApp\obj\Release\net8.0\compressed\599fykerut-zfuyt63clz.gz
-C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WepApp\ExpressionDBBlazorWasmApp\obj\Release\net8.0\compressed\m0n4bc05t3-s3mhuv70fi.gz
-C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WepApp\ExpressionDBBlazorWasmApp\obj\Release\net8.0\compressed\i75ihw0n2t-8t3gbxzm1u.gz
 C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WepApp\ExpressionDBBlazorWasmApp\obj\Release\net8.0\staticwebassets.build.json
 C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WepApp\ExpressionDBBlazorWasmApp\obj\Release\net8.0\staticwebassets.development.json
 C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WepApp\ExpressionDBBlazorWasmApp\obj\Release\net8.0\staticwebassets.build.endpoints.json
@@ -2548,3 +2541,10 @@ C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\B
 C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WepApp\ExpressionDBBlazorWasmApp\obj\Release\net8.0\refint\ExpressionDBBlazorWasmApp.dll
 C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WepApp\ExpressionDBBlazorWasmApp\obj\Release\net8.0\ExpressionDBBlazorWasmApp.pdb
 C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WepApp\ExpressionDBBlazorWasmApp\obj\Release\net8.0\ref\ExpressionDBBlazorWasmApp.dll
+C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WepApp\ExpressionDBBlazorWasmApp\obj\Release\net8.0\compressed\mh1xk4vkvy-zluhvwbzmn.gz
+C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WepApp\ExpressionDBBlazorWasmApp\obj\Release\net8.0\compressed\3mdmdar3dn-wlh9gvw1ms.gz
+C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WepApp\ExpressionDBBlazorWasmApp\obj\Release\net8.0\compressed\69m19dp35n-yepl0y6oqc.gz
+C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WepApp\ExpressionDBBlazorWasmApp\obj\Release\net8.0\compressed\u4d5min8qi-vqu47bhhec.gz
+C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WepApp\ExpressionDBBlazorWasmApp\obj\Release\net8.0\compressed\599fykerut-toq7iljt6s.gz
+C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WepApp\ExpressionDBBlazorWasmApp\obj\Release\net8.0\compressed\m0n4bc05t3-lcg1qc242z.gz
+C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WepApp\ExpressionDBBlazorWasmApp\obj\Release\net8.0\compressed\i75ihw0n2t-clcg8eeh0s.gz
